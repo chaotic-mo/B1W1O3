@@ -1,0 +1,31 @@
+html
+	{
+	display: inline;
+	background: url(..//images/Zonsondergang.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+footer
+	{
+	text-align: center;
+	margin: 25px 300px;
+	border:solid black;
+	background-color: #ff6633;
+	width: 600px ;
+	}
+h1
+	{
+	margin: 25px 300px;
+	text-align: center;
+	border:solid black;
+	background-color: #ff6633;
+	width: 600px ;
+	}
+.a
+	{
+		margin: 25px 300px;
+		border:solid black;
+		background-color: white;
+		width: 600px ;
+	}
+ 
